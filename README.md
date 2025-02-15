@@ -7,6 +7,17 @@
 
  * Monday
    * 16:00 - [Comp1236](https://learn.georgebrown.ca/d2l/home/337951)
- 18:00 - [Comp1234](https://learn.georgebrown.ca/d2l/home/342901)
-
+   * 18:00 - [Comp1234](https://learn.georgebrown.ca/d2l/home/342901)
+* Tuesday
+   * 16:00 -[Comp1238](https://learn.georgebrown.ca/d2l/home/334969)
+   * 18:00 -[Comp1151](https://learn.georgebrown.ca/d2l/home/335101)
+* Wednesday
+    * 9:00 -[Comp1151](https://learn.georgebrown.ca/d2l/home/335101)
+    * 12:00 -[Comp1162](https://learn.georgebrown.ca/d2l/home/331954)
+* Thursday
+   * 10:00 -[Comp1162](https://learn.georgebrown.ca/d2l/home/331954)
+   * 15:00 -[Comp1234](https://learn.georgebrown.ca/d2l/home/342901)
+* Friday
+   * 10:00 -[Comp1236](https://learn.georgebrown.ca/d2l/home/337951)
+   * 15:00 - [Comp1238](https://learn.georgebrown.ca/d2l/home/334969)
   
